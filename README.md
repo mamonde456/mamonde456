@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Welcome&desc=Chalotte%20GitHub%20Profile&fontSize=30&&fontAlign=32&fontAlignY=43&descSize=60&descAlign=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Welcome&desc=%20GitHub%20Profile&fontSize=30&&fontAlign=32&fontAlignY=43&descSize=60&descAlign=55)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmamonde456&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
@@ -8,7 +8,7 @@
 
 <p align="center">email: mamonde456@gmail.com</p>
 <p align="center">blog: https://velog.io/@mamonde456</p>
-<p align="center">portfolio website:https://mamonde456.github.io/hyeon</p>
+
 #
 
 <br/>
@@ -42,8 +42,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamonde456&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-![mamonde456's github stats](https://github-readme-stats.vercel.app/api?username=mamonde456&show_icons=true)
-</div>
 
 <br/>
 <br/>
