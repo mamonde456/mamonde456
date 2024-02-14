@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Welcome&desc=%20Hyeonji%20Choi%20GitHub%20Profile&fontSize=30&&fontAlign=32&fontAlignY=43&descSize=60&descAlign=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Welcome&desc=%20Hyeon%20Ji%20Choi&fontSize=30&&fontAlign=32&fontAlignY=43&descSize=60&descAlign=55)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmamonde456&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
