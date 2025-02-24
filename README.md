@@ -6,7 +6,6 @@
 
 <div align="center">
 
-<p align="center">email: mamonde456@gmail.com</p>
 <p align="center">blog: https://velog.io/@mamonde456</p>
 
 #
